@@ -1,0 +1,2 @@
+# Proyek Klasifikasi Gambar: Garbage Classification (5 classes)
+- **Nama Kelompok:** 1)Haykal Aulil Albab 2)Putri Endang Lestari 3)Septi Kirana D.L.
